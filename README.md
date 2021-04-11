@@ -10,7 +10,7 @@ Simple REST API demonstrating route protection in Node.js
   ```sh
   npm install
   ```
-     - To Run the application
+  - To Run the application
   ```sh
   node index
   ```
